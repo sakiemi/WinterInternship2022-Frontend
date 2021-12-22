@@ -27,17 +27,6 @@ After the installation of the dependencies is complete, start the server by runn
 command in the terminal: `npm start`.
 You should see the application running at the following address: http://localhost:8080/
 
-# COMMIT YOUR SOLUTION
-
-### 1. Build the project
-To build the project type following commands: `npm run build`.
-
-### 2. Package into .zip file
-Compress project folder (without the `node_modules` folder) into: `.zip` or `.7z` archive.
-
-### 3. Send the project back to your recruiter
-Contact your recruiter via email and send them the archived project solution.
-
 # FAQ
 
 ### 1. Can I use project starters like react-create-app and others?
